@@ -577,11 +577,11 @@
                         <ul class="list-unstyled li-space-lg p-small">
                             <li class="media">
                                 <i class="fas fa-map-marker-alt"></i>
-                                <div class="media-body">JAWA BARAT SUBANG</div>
+                                <div class="media-body">Jawa Tengah, Semarang</div>
                             </li>
                             <li class="media">
                                 <i class="fas fa-envelope"></i>
-                                <div class="media-body"><a class="white" href="mailto:kurr995@gmail.com">Email</a> <i class="fas fa-globe"></i><a class="white" href="https://wa.me/6281220670449">WhatsApp</a></div>
+                                <div class="media-body"><a class="white" href="index.html">Email</a> <i class="fas fa-globe"></i><a class="white" href="https://wa.me/6281220670449">WhatsApp</a></div>
                             </li>
                         </ul>
                     </div> 
